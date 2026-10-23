@@ -1,0 +1,12 @@
+# PadhaiPal — pinned working set (Python 3.11-compatible)
+mcp==2.3.0
+starlette==1.8.0
+uvicorn==0.54.0
+scikit-learn==1.9.1
+scipy==1.17.1
+numpy==2.3.2
+boto3==1.43.114
+groq==1.7.0
+httpx==0.28.1
+python-dotenv==1.2.4
+anyio==4.15.1
